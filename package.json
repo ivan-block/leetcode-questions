@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-questions",
+  "version": "1.0.0",
+  "description": "This is the playground for leetcodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ivan-block/leetcode-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-block/leetcode-questions/issues"
+  },
+  "homepage": "https://github.com/ivan-block/leetcode-questions#readme"
+}
